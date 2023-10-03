@@ -1,5 +1,4 @@
-@import-normalize;
-/* bring in normalize.css styles */
+@import-normalize; /* bring in normalize.css styles */
 
 
 body {
@@ -10,7 +9,7 @@ body {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 
-  background-image: linear-gradient(to top, #96fbc4 0%, #f9f586 100%);
+  background-image: linear-gradient(to top, #b896fb 0%, #86f988 100%);
 }
 
 code {
